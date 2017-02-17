@@ -1,4 +1,5 @@
-# Logs
+config.json
+gs
 logs
 *.log
 npm-debug.log*
@@ -35,3 +36,9 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+dist
+out
+
+# macOS
+.DS_Store
