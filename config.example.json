@@ -1,28 +1,25 @@
 {
-  "tasks": [
-     {
-        "productID": 77671,
-        "cardInfo":{
-           "number": "4916 8068 7213 6192",
-           "nameOnCard": "Johnny Appleseed",
-           "month": 11,
-           "year": 2018,
-           "cvv": "705"
-        },
-        "billingInfo": {
-           "firstName": "Johnny",
-           "lastName": "Appleseed",
-           "company": null,
-           "address": "4384 Clement Street",
-           "aptNumber": null,
-           "city": "Atlanta",
-           "country": "United States",
-           "state": "GA",
-           "stateFull": "Georgia",
-           "zipCode": "30303",
-           "phoneNumber": "4044892804",
-  				 "phoneNumberFormatted": "(404) 489-2804"
-        }
-     }
-  ]
+  "productID": 77592,
+  "early_link": "https://www.thegoodwillout.com/nike-wmns-sock-dart-palm-green-white-black-848475-300",
+  "cardInfo": {
+    "number": "4916 8068 7213 6192",
+    "nameOnCard": "Johnny Appleseed",
+    "month": 11,
+    "year": 2018,
+    "cvv": "705"
+  },
+  "billingInfo": {
+    "firstName": "Johnny",
+    "lastName": "Appleseed",
+    "company": null,
+    "address": "4384 Clement Street",
+    "aptNumber": null,
+    "city": "Atlanta",
+    "country": "United States",
+    "state": "GA",
+    "stateFull": "Georgia",
+    "zipCode": "30303",
+    "phoneNumber": "4044892804",
+    "phoneNumberFormatted": "(404) 489-2804"
+  }
 }
